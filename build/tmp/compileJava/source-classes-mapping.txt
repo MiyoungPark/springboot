@@ -9,3 +9,10 @@ com/springboot/domain/posts/PostsRepository.java
  com.springboot.domain.posts.PostsRepository
 com/springboot/web/HelloController.java
  com.springboot.web.HelloController
+com/springboot/dto/PostsSaveRequestDto.java
+ com.springboot.dto.PostsSaveRequestDto
+ com.springboot.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/springboot/services/PostsService.java
+ com.springboot.services.PostsService
+com/springboot/web/PostsApiController.java
+ com.springboot.web.PostsApiController
