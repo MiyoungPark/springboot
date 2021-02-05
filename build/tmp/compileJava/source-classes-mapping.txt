@@ -1,6 +1,11 @@
+com/springboot/domain/posts/Posts.java
+ com.springboot.domain.posts.Posts
+ com.springboot.domain.posts.Posts$PostsBuilder
 com/springboot/dto/HelloResponseDto.java
  com.springboot.dto.HelloResponseDto
 com/springboot/springTest.java
  com.springboot.springTest
+com/springboot/domain/posts/PostsRepository.java
+ com.springboot.domain.posts.PostsRepository
 com/springboot/web/HelloController.java
  com.springboot.web.HelloController
