@@ -1,18 +1,28 @@
 com/springboot/domain/posts/Posts.java
  com.springboot.domain.posts.Posts
  com.springboot.domain.posts.Posts$PostsBuilder
+com/springboot/web/PostsApiController.java
+ com.springboot.web.PostsApiController
+com/springboot/dto/PostsUpdateRequestDto.java
+ com.springboot.dto.PostsUpdateRequestDto
+ com.springboot.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/springboot/dto/PostsXMLSaveRequestDto.java
+ com.springboot.dto.PostsXMLSaveRequestDto
+ com.springboot.dto.PostsXMLSaveRequestDto$PostsXMLSaveRequestDtoBuilder
+com/springboot/domain/posts/BaseTimeEntity.java
+ com.springboot.domain.posts.BaseTimeEntity
+com/springboot/dto/PostsResponseDto.java
+ com.springboot.dto.PostsResponseDto
+com/springboot/services/PostsService.java
+ com.springboot.services.PostsService
 com/springboot/dto/HelloResponseDto.java
  com.springboot.dto.HelloResponseDto
+com/springboot/dto/PostsSaveRequestDto.java
+ com.springboot.dto.PostsSaveRequestDto
+ com.springboot.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/springboot/springTest.java
  com.springboot.springTest
 com/springboot/domain/posts/PostsRepository.java
  com.springboot.domain.posts.PostsRepository
 com/springboot/web/HelloController.java
  com.springboot.web.HelloController
-com/springboot/dto/PostsSaveRequestDto.java
- com.springboot.dto.PostsSaveRequestDto
- com.springboot.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/springboot/services/PostsService.java
- com.springboot.services.PostsService
-com/springboot/web/PostsApiController.java
- com.springboot.web.PostsApiController
