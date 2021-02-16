@@ -58,6 +58,8 @@ dependencies {
     testAnnotationProcessor('org.projectlombok:lombok')
 
     compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.9.8'
+
+    compile('org.springframework.boot:spring-boot-starter-mustache')
 }
 
 

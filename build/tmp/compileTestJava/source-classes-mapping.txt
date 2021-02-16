@@ -6,3 +6,5 @@ com/springboot/dto/HelloResponseDtoTest.java
  com.springboot.dto.HelloResponseDtoTest
 com/springboot/web/PostsApiControllerTest.java
  com.springboot.web.PostsApiControllerTest
+com/springboot/web/IndexControllerTest.java
+ com.springboot.web.IndexControllerTest
